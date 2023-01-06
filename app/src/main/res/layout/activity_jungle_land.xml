@@ -4,11 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".TicketActivity"
+    tools:context=".JungleLand"
     android:background="#fa8888">
 
     <TextView
-        android:id="@+id/tvpaket1"
+        android:id="@+id/tvpaket3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Paket"
@@ -16,60 +16,60 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.017"
+        app:layout_constraintHorizontal_bias="0.014"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.499" />
+        app:layout_constraintVertical_bias="0.497" />
 
     <EditText
-        android:id="@+id/etnamapengunjung1"
+        android:id="@+id/etnamapengunjung3"
         android:layout_width="230dp"
         android:layout_height="25dp"
         android:background="@drawable/buttonbg"
         android:ems="10"
         android:inputType="textPersonName"
+        android:textSize="15dp"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
-        android:textSize="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.856"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.72" />
+        app:layout_constraintVertical_bias="0.701" />
 
     <TextView
-        android:id="@+id/tvnamapengunjung1"
+        android:id="@+id/tvnamapengunjung3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nama Pengunjung"
         android:textSize="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.02"
+        app:layout_constraintHorizontal_bias="0.017"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.722" />
+        app:layout_constraintVertical_bias="0.701" />
 
     <EditText
-        android:id="@+id/etnomortelepon1"
+        android:id="@+id/etnomortelepon3"
         android:layout_width="230dp"
         android:layout_height="25dp"
         android:background="@drawable/buttonbg"
         android:ems="10"
         android:inputType="textPersonName"
+        android:textSize="15dp"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
-        android:textSize="15dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.856"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.763" />
+        app:layout_constraintVertical_bias="0.749" />
 
     <TextView
-        android:id="@+id/etdate1"
+        android:id="@+id/etdate3"
         android:layout_width="230dp"
         android:layout_height="25dp"
         android:background="@drawable/buttonbg"
@@ -82,10 +82,10 @@
         app:layout_constraintHorizontal_bias="0.856"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.546" />
+        app:layout_constraintVertical_bias="0.539" />
 
     <TextView
-        android:id="@+id/tvnomortelepon1"
+        android:id="@+id/tvnomortelepon3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nomor Telepon"
@@ -95,10 +95,10 @@
         app:layout_constraintHorizontal_bias="0.019"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.765" />
+        app:layout_constraintVertical_bias="0.744" />
 
     <TextView
-        android:id="@+id/tvdetailpengunjung1"
+        android:id="@+id/tvdetailpengunjung3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Detail Pengunjung"
@@ -109,10 +109,10 @@
         app:layout_constraintHorizontal_bias="0.029"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.67" />
+        app:layout_constraintVertical_bias="0.651" />
 
     <TextView
-        android:id="@+id/tvtanggalkunjungan1"
+        android:id="@+id/tvtanggalkunjungan3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Tanggal Kunjungan"
@@ -125,7 +125,7 @@
         app:layout_constraintVertical_bias="0.542" />
 
     <TextView
-        android:id="@+id/tvjumlahpengunjung1"
+        android:id="@+id/tvjumlahpengunjung3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Jumlah Pengunjung"
@@ -135,10 +135,10 @@
         app:layout_constraintHorizontal_bias="0.021"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.599" />
+        app:layout_constraintVertical_bias="0.589" />
 
     <Button
-        android:id="@+id/buttonPesanSekarang1"
+        android:id="@+id/buttonPesanSekarang3"
         android:layout_width="380sp"
         android:layout_height="wrap_content"
         android:backgroundTint="#b44872"
@@ -150,22 +150,22 @@
         app:layout_constraintVertical_bias="0.976" />
 
     <ImageView
-        android:id="@+id/imagedufan1"
-        android:layout_width="622dp"
-        android:layout_height="276dp"
+        android:id="@+id/imagejungleland3"
+        android:layout_width="611dp"
+        android:layout_height="277dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/dufan" />
+        app:srcCompat="@drawable/jungleland" />
 
     <TextView
-        android:id="@+id/tvjuduldufan1"
-        android:layout_width="414dp"
-        android:layout_height="58dp"
+        android:id="@+id/tvjuduljungleland3"
+        android:layout_width="416dp"
+        android:layout_height="56dp"
         android:background="@drawable/bgplace"
-        android:text="  Dunia Fantasi, Jakarta"
+        android:text="  Jungle Land, Bogor"
         android:textColor="@color/white"
         android:textSize="20dp"
         android:textStyle="bold"
@@ -177,10 +177,10 @@
         app:layout_constraintVertical_bias="0.404" />
 
     <TextView
-        android:id="@+id/tvjambuka1"
+        android:id="@+id/tvjambuka3"
         android:layout_width="184dp"
         android:layout_height="30dp"
-        android:text=" Buka 10:00 - 15:00"
+        android:text=" Buka 10:00 - 18:00"
         android:textColor="@color/white"
         android:textSize="13dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -191,7 +191,7 @@
         app:layout_constraintVertical_bias="0.426" />
 
     <Button
-        android:id="@+id/buttonMinus"
+        android:id="@+id/buttonMinus3"
         android:layout_width="52dp"
         android:layout_height="39dp"
         android:backgroundTint="#b44872"
@@ -204,7 +204,7 @@
         app:layout_constraintVertical_bias="0.599" />
 
     <Button
-        android:id="@+id/buttonPlus"
+        android:id="@+id/buttonPlus3"
         android:layout_width="52dp"
         android:layout_height="39dp"
         android:backgroundTint="#b44872"
@@ -217,7 +217,7 @@
         app:layout_constraintVertical_bias="0.599" />
 
     <TextView
-        android:id="@+id/tvjumlah"
+        android:id="@+id/tvjumlah3"
         android:layout_width="38dp"
         android:layout_height="21dp"
         android:background="@drawable/buttonbg"
@@ -232,7 +232,7 @@
         app:layout_constraintVertical_bias="0.6" />
 
     <TextView
-        android:id="@+id/tvTotal"
+        android:id="@+id/tvTotal3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Total Harga :"
@@ -244,4 +244,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.86" />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="image">
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/dufan.1.webp?t=2023-01-04T15%3A17%3A46.011Z</item>
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/kidzania.jpeg?t=2023-01-04T15%3A18%3A09.227Z</item>
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/jungleland.webp</item>
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/jakartaaquarium.webp</item>
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/waterkingdom.webp</item>
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/transsnowworld.webp?t=2023-01-05T06%3A31%3A50.624Z</item>
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/museummacan.webp?t=2023-01-05T06%3A32%3A08.397Z</item>
+        <item>https://lsnsmaztesteozdmytnn.supabase.co/storage/v1/object/public/dufan/batusecretzoomalang.jpeg?t=2023-01-05T06%3A32%3A23.679Z</item>
+    </string-array>
+</resources>

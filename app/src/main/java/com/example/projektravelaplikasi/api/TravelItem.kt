@@ -6,5 +6,4 @@ data class TravelItem (
     val description: String? = null,
     val done_at: String? = null,
     val created_at: String,
-    val url : String
 )

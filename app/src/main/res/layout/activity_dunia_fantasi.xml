@@ -7,7 +7,6 @@
     tools:context=".DuniaFantasi"
     android:background="#fa8888">
 
-
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
@@ -22,16 +21,5 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.05" />
 
-    <ImageView
-        android:id="@+id/imageView7"
-        android:layout_width="694dp"
-        android:layout_height="972dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.501"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@mipmap/imgdufan_foreground" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -3,14 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/drawable/buttonbg.xml" value="0.11539154052734375" />
+        <entry key="app/src/main/res/drawable/bgplace.xml" value="0.215" />
+        <entry key="app/src/main/res/drawable/buttonbg.xml" value="0.10223236083984372" />
         <entry key="app/src/main/res/drawable/imgdufan_background.xml" value="0.202" />
-        <entry key="app/src/main/res/layout/activity_dunia_fantasi.xml" value="0.19554189046223955" />
+        <entry key="app/src/main/res/layout/activity_batu_secret_zoo.xml" value="0.19772208485434803" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_dunia_fantasi.xml" value="0.20774078369140625" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/activity_jakarta_aquarium.xml" value="0.25521341959635413" />
+        <entry key="app/src/main/res/layout/activity_jungle_land.xml" value="0.18551934283712637" />
+        <entry key="app/src/main/res/layout/activity_kidzania.xml" value="0.19144846598307286" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.295021231515067" />
-        <entry key="app/src/main/res/layout/activity_place.xml" value="0.3023727416992188" />
+        <entry key="app/src/main/res/layout/activity_museum_macan.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_place.xml" value="0.22392638036809817" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.2715057373046875" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3098958333333333" />
-        <entry key="app/src/main/res/layout/activity_ticket.xml" value="0.22972869873046878" />
-        <entry key="app/src/main/res/layout/travel_item.xml" value="0.2451202392578125" />
+        <entry key="app/src/main/res/layout/activity_ticket.xml" value="0.2761205531995707" />
+        <entry key="app/src/main/res/layout/activity_trans_snow_world.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/layout/activity_water_kingdom.xml" value="0.28072916666666664" />
+        <entry key="app/src/main/res/layout/travel_item.xml" value="0.335" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/imgdufan.xml" value="0.1" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/imgdufan_round.xml" value="0.1" />
       </map>

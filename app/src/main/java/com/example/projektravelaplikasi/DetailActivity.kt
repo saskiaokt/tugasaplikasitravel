@@ -1,14 +1,11 @@
 package com.example.projektravelaplikasi
 
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
 
-class DuniaFantasi: AppCompatActivity() {
-
+class DetailActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_dunia_fantasi)
-
-
+        setContentView(R.layout.activity_detail)
     }
 }
